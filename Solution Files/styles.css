@@ -1,0 +1,44 @@
+body{
+  font-family: 'Karla', sans-serif;
+  font-size: 16px;
+
+
+  
+    }
+    
+  h2{
+    
+  font-weight: 700;
+  color: hsl(179, 62%, 43%);
+
+  }
+  h3{
+    
+  font-weight: 700;
+  color: hsl(71, 73%, 54%);
+
+  }
+  p {
+    color: hsl(218, 22%, 67%);
+    line-height: 1.5;
+    
+    
+  }
+  
+  .top-container {
+   margin-left: 20px;
+    margin-right: 100px;
+
+  }
+  .attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+  
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
+  
+  
+
+  
