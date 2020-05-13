@@ -1,10 +1,9 @@
 body{
   font-family: 'Karla', sans-serif;
   font-size: 16px;
-
-
-  
-    }
+  margin:0;
+  width: 1440px;
+}
     
   h2{
     
@@ -18,17 +17,20 @@ body{
   color: hsl(71, 73%, 54%);
 
   }
-  p {
+  .p1 {
     color: hsl(218, 22%, 67%);
     line-height: 1.5;
-    
-    
-  }
+    }
+.p2{
+  color: hsl(218, 22%, 67%);
+  line-height: 0;
+}
   
   .top-container {
-   margin-left: 20px;
-    margin-right: 100px;
-
+   margin: 20px;
+    margin-top: 50px;
+   
+    margin-bottom: 50px;
   }
   .attribution {
     font-size: 11px;
@@ -41,13 +43,11 @@ body{
   
   .left-container {
     background-color: #2bb3b1;
-    width: 200px;
-    height: 200px;
+    width: 400px;
+    height:400px;
     color: hsl(204, 43%, 93%);
-      }
-      
-
+     padding:20px;
+    }
+.right-container {
   
-  
-
-  
+}    
